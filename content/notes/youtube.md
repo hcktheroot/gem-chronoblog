@@ -1,6 +1,6 @@
 ---
 date: 2018-10-26
-tags: ['video', 'note']
+tags: ['video', 'note', 'cod']
 ---
 
 <Embed

@@ -1,9 +1,9 @@
 ---
-title: PUBG Blog Post Example
+title: DOTA Blog Post Example
 cover: ./image.jpg
-date: 2019-12-01
+date: 2020-12-27
 description: All the usual blog post.
-tags: ['post', 'pubg']
+tags: ['post', 'dota']
 ---
 
 This is an example blog post. All your blog posts should be here: `content/posts`.

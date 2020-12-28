@@ -3,32 +3,33 @@ module.exports = {
     siteTitle: 'Chronoblog Starter',
     siteDescription: 'Starter for Gatsby Theme Chronoblog',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog.now.sh/',
+    siteUrl: 'https://gemwire.gg/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
-    avatar: '/avatar.jpg',
+    author: 'GemWire',
+    authorDescription: 'Your one stop for Gaming and Esports News',
+    avatar: '/gemwire.jpg',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
       {
         icon: `at`,
-        url: `mailto:mymail@mail.com`
+        url: `mailto:gemwiremail@gemwire.com`
       },
       {
         icon: `twitter`,
-        url: `https://twitter.com/ganevru`
+        url: `https://twitter.com/gemwire`
       },
       {
-        icon: `github`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`
+        icon: `instagram`,
+        url: `https://www.npmjs.com/`
       },
       {
-        icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`
-      }
+        icon: `linkedin`,
+        url: `https://www.linkedin.com/in/vamsinagavarapu`
+      },
+
     ]
   },
   plugins: [
